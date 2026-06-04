@@ -1,16 +1,27 @@
-## Hi there 👋
+### hi, i'm frank 👋
 
-<!--
-**frnnk/frnnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs grad from mit, interested in **theoretical distributed and agentic systems**, as well as building **personal automation and tooling systems**
 
-Here are some ideas to get you started:
+currently experimenting with single-threaded agents given a limited scope
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently building infrastructure that supports personal automation in the form of CLI programs and mobile communication interfaces
+
+---
+
+#### things i've built (so far!)
+
+- **ai-inference-kernels**: custom NKI kernels for running qwen3-30B-A3B inference on AWS Trainium (pair project)
+- **[transient-thoughts](https://github.com/frnnk/transient-thoughts)**: unintrusive desktop journaling app to quickly unload tangent thoughts
+- **[msg-agent](https://github.com/frnnk/msg-agent)**: mini agentic harness with human-in-the-loop confirmation, clarification & MCP integration
+- **[assistant-mcp](https://github.com/frnnk/assistant-mcp)**: framework for spinning up MCP servers with third-party OAuth infra in place
+- **[watch-party](https://github.com/frnnk/watch-party)**: persistent lobbies for watching videos with synchronized playback
+
+#### i also write
+
+mostly about systems I built and problems I faced along the way, with the occasional reflection about life.
+
+---
+
+#### find me
+
+[`/in/frank-liuu`](https://linkedin.com/in/frank-liuu) · [`frankwl.com`](https://frankwl.com) · fr4nk [at] mit [dot] edu
